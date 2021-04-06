@@ -28,6 +28,15 @@ const styles = StyleSheet.create({
         resizeMode:'cover',
         position:'absolute',
     
+      },
+      buttonsContainer: {
+       position:'relative',
+        bottom:-300,
+        width:'100%',
+      },
+      subtitleCTA:{
+        textDecorationLine:'underline',
+        
       }
 
 });
